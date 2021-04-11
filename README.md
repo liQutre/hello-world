@@ -1,2 +1,2 @@
-# A practice repository
-Hello World!
+# Hello World! This is a practice repository
+
